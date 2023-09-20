@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "image": "https://i.ibb.co/6ygdr15/Food-15.png",
+        "price": "10.99",
+        "category": "Italian"
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "image": "https://i.ibb.co/ZGXmxR1/Food-1.png",
+        "price": "8.25",
+        "category": "Fast Food"
+    },
+    {
+        "id": 3,
+        "name": "Salad",
+        "image": "https://i.ibb.co/g9BQQFz/Food-5.png",
+        "price": "7.99",
+        "category": "Healthy"
+    },
+    {
+        "id": 4,
+        "name": "Sushi",
+        "image": "https://i.ibb.co/Y2P3cHG/Food-6.png",
+        "price": "12.99",
+        "category": "Japanese"
+    },
+    {
+        "id": 5,
+        "name": "Pasta",
+        "image": "https://i.ibb.co/WBjVqmr/Food-4.png",
+        "price": "9.99",
+        "category": "Italian"
+    },
+    {
+        "id": 6,
+        "name": "Sandwich",
+        "image": "https://i.ibb.co/231Zg8Y/Food-3.png",
+        "price": "6.99",
+        "category": "Fast Food"
+    },
+    {
+        "id": 7,
+        "name": "Steak",
+        "image": "https://i.ibb.co/pxP93pB/Food-7.png",
+        "price": "15.99",
+        "category": "Meat"
+    },
+    {
+        "id": 8,
+        "name": "Ice Cream",
+        "image": "https://i.ibb.co/5j7XH6x/Food-2.png",
+        "price": "5.99",
+        "category": "Dessert"
+    },
+    {
+        "id": 9,
+        "name": "Curry",
+        "image": "https://i.ibb.co/FXtG9Lk/Food-9.png",
+        "price": "11.99",
+        "category": "Indian"
+    },
+    {
+        "id": 10,
+        "name": "Tacos",
+        "image": "https://i.ibb.co/TP2v3kM/Food-8.png",
+        "price": "8.49",
+        "category": "Mexican"
+    },
+    {
+        "id": 11,
+        "name": "Fried Chicken",
+        "image": "https://i.ibb.co/W24gS78/Food-14.png",
+        "price": "9.99",
+        "category": "Fast Food"
+    },
+    {
+        "id": 12,
+        "name": "Soup",
+        "image": "https://i.ibb.co/LRRkRz4/Food-10.png",
+        "price": "4.99",
+        "category": "Comfort Food"
+    },
+    {
+        "id": 13,
+        "name": "Fish & Chips",
+        "image": "https://i.ibb.co/SP1d0RV/Food-11.png",
+        "price": "10.99",
+        "category": "Seafood"
+    },
+    {
+        "id": 14,
+        "name": "Muffin",
+        "image": "https://i.ibb.co/7tb6JVQ/Food-12.png",
+        "price": "2.99",
+        "category": "Bakery"
+    },
+    {
+        "id": 15,
+        "name": "Smoothie",
+        "image": "https://i.ibb.co/QM4KcRT/Food-13.png",
+        "price": "5.49",
+        "category": "Beverage"
+    }
+]

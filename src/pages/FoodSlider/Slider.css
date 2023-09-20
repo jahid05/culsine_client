@@ -1,0 +1,10 @@
+.swiper-slide-active{
+  background: #FFF;
+  border: 3px solid #FF5F1B !important;
+  border-radius: 20px;
+  opacity: 1 !important;
+}
+.swiper-slide{
+  opacity: .6;
+}
+
