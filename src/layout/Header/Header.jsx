@@ -17,7 +17,7 @@ const Header = () => {
           <h1
             data-aos="fade-up"
             data-aos-easing="linear"
-            data-aos-duration="1500"
+            data-aos-duration="700"
             className="md:text-[82px] text-5xl font-bold md:leading-[100px] leading-[60px]"
           >
             Enjoy <span className="text-theme-color-100">Delicious</span> <br />{" "}
@@ -27,7 +27,7 @@ const Header = () => {
           <p
             data-aos="zoom-in"
             data-aos-easing="linear"
-            data-aos-duration="1500"
+            data-aos-duration="700"
             className="md:text-[20px] md:w-2/3  text-gray-500"
           >
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore,
@@ -39,7 +39,7 @@ const Header = () => {
             className=""
             data-aos="fade-down"
             data-aos-easing="linear"
-            data-aos-duration="1500"
+            data-aos-duration="700"
           >
             <Link to="menu">
               <Button commonButton="View Menu"></Button>

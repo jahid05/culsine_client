@@ -56,9 +56,9 @@ const OurChef = () => {
           <SwiperSlide key={chef.id}>
             <div data-aos="zoom-in"
      data-aos-easing="linear"
-     data-aos-duration="1000" className="card shadow-xl">
+     data-aos-duration="700" className="card shadow-xl">
               <figure className="md:px-8 pt-4 md:pt-10 relative">
-              <div className="absolute bottom-0 md:left-6 md:badge-xl px-2 md:px-4 rounded-lg text-[10px] md:text-lg text-white bg-theme-color-100">Experience: {chef.experience}</div>
+              <div className="absolute bottom-0 md:left-6 md:badge-xl px-2 md:px-4 rounded-lg text-[10px] md:text-[14px] text-white bg-theme-color-100">Experience: {chef.experience}</div>
                 <img
                   className="md:h-60 h-36 w-36 object-cover"
                   src={chef.imageURL}
@@ -66,8 +66,8 @@ const OurChef = () => {
                 />
               </figure>
               <div className="md:card-body p-2 items-center text-center">
-                <h2 className="md:text-xl md:font-bold font-semibold">{chef.chefName}</h2>
-                <p className="md:text-lg text-sm text-gray-500">{chef.designation}</p>
+                <h2 className="md:text-2xl text-md md:font-bold font-semibold">{chef.chefName}</h2>
+                <p className="md:text-lg text-[12px] text-gray-500">{chef.designation}</p>
               </div>
             </div>
           </SwiperSlide>

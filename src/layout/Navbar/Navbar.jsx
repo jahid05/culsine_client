@@ -54,7 +54,7 @@ const Navbar = () => {
       >
         Blog
       </NavLink>
-      <NavLink
+      {/* <NavLink
         className={({ isActive, isPending }) =>
         isPending
           ? "pending"
@@ -65,7 +65,7 @@ const Navbar = () => {
         to="contact"
       >
         Contact
-      </NavLink>
+      </NavLink> */}
     </>
   );
   return (

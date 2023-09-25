@@ -9,7 +9,7 @@ const AppDown = () => {
         <div className="space-y-6 ">
           <h2 data-aos="fade-down"
      data-aos-easing="linear"
-     data-aos-duration="1500" className="text-2xl md:text-5xl text-theme-color-200 font-bold ">
+     data-aos-duration="700" className="text-2xl md:text-5xl text-theme-color-200 font-bold ">
             Never Feel Hungry
             <br />
             <span className="text-theme-color-100">
@@ -20,7 +20,7 @@ const AppDown = () => {
           </h2>
           <p data-aos="zoom-in"
      data-aos-easing="linear"
-     data-aos-duration="1500" className="text-gray-500 md:w-1/2">
+     data-aos-duration="700" className="text-gray-500 md:w-1/2">
             combined with a handful of model sentence structures, to generate
             Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is
             therefore always free from repetition, injected humour, or
@@ -28,7 +28,7 @@ const AppDown = () => {
           </p>
           <div data-aos="fade-right"
      data-aos-easing="linear"
-     data-aos-duration="1500" className="flex gap-4">
+     data-aos-duration="700" className="flex gap-4">
             <button>
               <img src={appleStore} alt="" />
             </button>
@@ -39,7 +39,7 @@ const AppDown = () => {
         </div>
         <div data-aos="fade-up"
      data-aos-easing="linear"
-     data-aos-duration="1500" className="flex justify-center items-center">
+     data-aos-duration="700" className="flex justify-center items-center">
           <img className="md:w-auto w-52" src={apps} alt="" />
         </div>
       </div>

@@ -5,7 +5,7 @@ const Footer = () => {
       <div className="container mx-auto footer">
       <form data-aos="zoom-in"
      data-aos-easing="linear"
-     data-aos-duration="1500">
+     data-aos-duration="700">
           <header className="footer-title text-lg normal-case text-theme-color-100">Secure your place on the waiting list now and <br />
 test our real estate software exclusively</header>
 <p>Get a status update about our <br />
@@ -30,7 +30,7 @@ unsubscribe at any time</p>
         </form>
         <nav data-aos="zoom-in"
      data-aos-easing="linear"
-     data-aos-duration="1500">
+     data-aos-duration="700">
           <header className="footer-title text-lg normal-case text-theme-color-100">Services</header>
           <a className="link link-hover">Branding</a>
           <a className="link link-hover">Design</a>
@@ -39,7 +39,7 @@ unsubscribe at any time</p>
         </nav>
         <nav data-aos="zoom-in"
      data-aos-easing="linear"
-     data-aos-duration="1500">
+     data-aos-duration="700">
           <header className="footer-title text-lg normal-case text-theme-color-100">Company</header>
           <a className="link link-hover">About us</a>
           <a className="link link-hover">Contact</a>
@@ -48,7 +48,7 @@ unsubscribe at any time</p>
         </nav>
         <nav data-aos="zoom-in"
      data-aos-easing="linear"
-     data-aos-duration="1500">
+     data-aos-duration="700">
           <header className="footer-title text-lg normal-case text-theme-color-100">Legal</header>
           <a className="link link-hover">Terms of use</a>
           <a className="link link-hover">Privacy policy</a>

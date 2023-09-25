@@ -8,7 +8,7 @@ const Blog = () => {
       <div className="grid gap-8 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
         <div data-aos="zoom-in"
             data-aos-easing="linear"
-            data-aos-duration="1000" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
+            data-aos-duration="700" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
           <img
             src="https://www.gettyimages.com/gi-resources/images/500px/983703508.jpg"
             className="object-cover w-full h-64"
@@ -49,7 +49,7 @@ const Blog = () => {
         </div>
         <div data-aos="zoom-in"
             data-aos-easing="linear"
-            data-aos-duration="1000" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
+            data-aos-duration="700" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
           <img
             src="https://us.123rf.com/450wm/last19/last191804/last19180400184/100595887-photographer-asian-woman-travel-nature-travel-relax-nature-study-in-the-jungle-thailand.jpg?ver=6"
             className="object-cover w-full h-64"
@@ -90,7 +90,7 @@ const Blog = () => {
         </div>
         <div data-aos="zoom-in"
             data-aos-easing="linear"
-            data-aos-duration="1000" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
+            data-aos-duration="700" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
           <img
             src="https://images.unsplash.com/photo-1682685797661-9e0c87f59c60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8OHx8bmlnaHR8ZW58MHx8MHx8fDA%3D&w=1000&q=80"
             className="object-cover w-full h-64"
@@ -131,7 +131,7 @@ const Blog = () => {
         </div>
         <div data-aos="zoom-in"
             data-aos-easing="linear"
-            data-aos-duration="1000" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
+            data-aos-duration="700" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
           <img
             src="https://imagekit.io/blog/content/images/2019/12/image-optimization.jpg"
             className="object-cover w-full h-64"
@@ -172,7 +172,7 @@ const Blog = () => {
         </div>
         <div data-aos="zoom-in"
             data-aos-easing="linear"
-            data-aos-duration="1000" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
+            data-aos-duration="700" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
           <img
             src="https://www.searchenginejournal.com/wp-content/uploads/2022/06/image-search-1600-x-840-px-62c6dc4ff1eee-sej.png"
             className="object-cover w-full h-64"
@@ -213,7 +213,7 @@ const Blog = () => {
         </div>
         <div data-aos="zoom-in"
             data-aos-easing="linear"
-            data-aos-duration="1000" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
+            data-aos-duration="700" className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm">
           <img
             src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80"
             className="object-cover w-full h-64"

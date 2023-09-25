@@ -63,7 +63,7 @@ const FoodSlider = () => {
             key={food.id}
             data-aos="zoom-in"
             data-aos-easing="linear"
-            data-aos-duration="1000"
+            data-aos-duration="700"
             className="card shadow-xl p-2 md:p-4 border border-gray-300"
           >
             <figure>
